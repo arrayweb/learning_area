@@ -1,4 +1,4 @@
-# Operators In Python : Assignment
+# Assignment
 
 ## 1. 
 
